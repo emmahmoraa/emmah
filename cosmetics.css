@@ -1,0 +1,44 @@
+.Cosmetics_Main{
+	width: 1255px;
+	margin-left:20px;
+
+}
+.Body_Lotions{
+	padding-top:10px;
+}
+.Hair_Oils fieldset{
+	border:2px inset purple;
+	padding-left:15px;
+}
+.Jewellery fieldset{
+	border:2px inset purple;
+	padding-left:15px;
+}
+.Body_Lotions fieldset{
+	border:2px inset purple;
+	padding-left:15px;
+}
+.Soaps fieldset{
+	border:2px inset purple;
+	padding-left:15px;
+}
+.Perfumes fieldset{
+	border:2px inset purple;
+	padding-left:15px;
+}
+.welcome{
+	clear:left;
+	width:1260px;
+	font-family:algerian;
+	font-size:1.8em;
+	color:white;
+	font-weight:bold;
+	position:relative;
+	display:inline-block;
+	-webkit-font-smoothing:antialiased;
+	background-color:66004d;
+	background:linear-gradient(to top, #66004d, #66004d,lavender);
+}
+.text{
+	display:inline-block;}
+	toplist a

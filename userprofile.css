@@ -1,0 +1,82 @@
+.userdetails{
+	margin-left:auto;
+	margin-right:auto;
+	width:700px;
+	clear:both;
+	background-color:lavender;	
+	margin-bottom:50px;
+}
+.userdetails form fieldset label {
+	width:200px;
+	float:left;
+	padding-left:10px;
+	margin-top:10px;
+	color:#2d0d4f;
+	font-size:18px;
+	
+	
+}
+.userdetails form{
+ padding-left:10px;
+ padding-right:10px;
+ padding-bottom:10px;
+}
+.userdetails h2{
+	text-align:center;
+	padding:10px;
+}
+.userdetails hr{
+	width:675px;
+	margin-right:auto;
+	margin-left:auto;
+	margin-bottom:10px;
+}
+.userdetails form fieldset input{
+	margin-top:10px;
+	border: 2px solid #66004d;
+	border-radius:5px;
+	font-size:18px;
+	padding-left:5px;
+}
+.userdetails form fieldset {
+	padding-left:20px;
+	border:2px solid #66004d;
+	border-radius:10px;
+}
+.userdetails form fieldset legend {
+	font-size:20px;
+	font-weight:700;
+}
+#FirstName {
+	width:250px;
+	height:35px;
+}
+#LastName{
+	width:250px;
+	height:35px;
+}
+#UserName {
+	width:350px;
+	height:35px;
+}
+#Email {
+	width:300px;
+	height:35px;
+}
+#MobileNo {
+	width:250px;
+	height:35px;
+}
+#Password {
+	width:200px;
+	height:35px;
+}
+#Register {
+	margin-left:550px;
+	width:100px;
+	padding:10px;
+	font-size:20px;
+	background-color:#66004d;
+	color:white;
+	margin-bottom:8px;
+}

@@ -1,0 +1,43 @@
+.Fashion_Main{
+	width: 1250px;
+	margin-left:20px;
+
+}
+.Men_Fashion{
+	padding-top:10px;
+}
+.Women_Fashion fieldset{
+	border:2px inset #66004d;
+	padding-left:15px;
+}
+.Kid_Fashion fieldset{
+	border:2px inset #66004d;
+	padding-left:15px;
+}
+.Wedding fieldset{
+	border:2px inset #66004d;
+	padding-left:15px;
+}
+.Cultural fieldset{
+	border:2px inset #66004d;
+	padding-left:15px;
+}
+.Men_Fashion fieldset{
+	border:2px inset #66004d;
+	padding-left:15px;
+}
+.welcome{
+	clear:left;
+	width:1260px;
+	font-family:algerian;
+	font-size:1.8em;
+	color:white;
+	font-weight:bold;
+	position:relative;
+	display:inline-block;
+	-webkit-font-smoothing:antialiased;
+	background-color:66004d;
+	background:linear-gradient(to top, #66004d, #66004d,lavender);
+}
+.text{
+	display:inline-block;}
